@@ -4,7 +4,7 @@ Skript til publikums-PCer som kjører Linux med gjestebruker.
 
 Teller tiden låneren har brukt PCen og logger ut ved inaktivitet.
 
-![alt text](https://github.com/Ornendil/logout/blob/main/image.jpg?raw=true)
+![Tidtaker](https://github.com/Ornendil/logout/blob/main/20220111_104632.jpg?raw=true)
 
 # Hvordan?
 
